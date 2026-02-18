@@ -17,8 +17,8 @@ A **Streamlit app** to visualize Ethereum wallet transactions using the **Ethers
 ## Setup
 
 1. **Clone the repo**  
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/NadineMacDonald222/ethereum-wallet-dashboard.git
+cd ethereum-wallet-dashboard
 
 2. **Create and activate a virtual environment**
 python -m venv venv
@@ -36,13 +36,13 @@ ETHERSCAN_API_KEY=YOUR_ETHERSCAN_API_KEY_HERE
 
 ## Run the Streamlit app:
 streamlit run app.py
-
 2. Enter an Ethereum wallet address in the input box.
+
 3. Explore:
--Total transactions
--Total ETH sent/received
--Recent transactions table
--Transaction value over time chart
+- Total transactions
+- Total ETH sent/received
+- Recent transactions table
+- Transaction value over time chart
 ------
 
 ## Notes:
