@@ -17,10 +17,10 @@ A **Streamlit app** to visualize Ethereum wallet transactions using the **Ethers
 ## Setup
 
 1. **Clone the repo**  
-git clone https://github.com/NadineMacDonald222/ethereum-wallet-dashboard.git
+git clone https://github.com/NadineMacDonald222/ethereum-wallet-dashboard.git 
 cd ethereum-wallet-dashboard
 
-2. **Create and activate a virtual environment**
+3. **Create and activate a virtual environment**
 python -m venv venv
 # Windows
 venv\Scripts\activate
@@ -46,6 +46,6 @@ streamlit run app.py
 ------
 
 ## Notes:
--Works best with small to medium wallets. Large wallets may load slower.
--API key is private via .env.
--Dependencies are listed in requirements.txt.
+- Works best with small to medium wallets. Large wallets may load slower.
+- API key is private via .env.
+- Dependencies are listed in requirements.txt.
